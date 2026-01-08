@@ -3,7 +3,8 @@ Email: Linh02@uw.edu
 
 ### EDUCATION 
 #### [University of Washington (Seattle, Washington)]("https://www.washington.edu/")
-![uw]("https://yt3.googleusercontent.com/QVF8U5IrJ6_v42tTDM0cD2l281YeOLtbvHEsbZ3_GOUCQUKmf-CpTVg4PPa9x5_6xIs_tGU2bA=s900-c-k-c0x00ffffff-no-rj")
+![uw]("uw.png")
+
 *Geography: Data Science with a minor in Data Science.*
 ###### Expected Grad: 2026
 
