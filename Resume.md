@@ -9,9 +9,9 @@ Email: Linh02@uw.edu
 ###### Expected Grad: 2026
 
 #### [CIEE (Kyoto, Japan)]("://www.ciee.org/about/leading-change-international-education-and-exchange")  
-*Study Abroad Program*
+*Study Abroad Program* \
 <img width="473" height="275" alt="Image" src="https://github.com/user-attachments/assets/72aadc4f-4288-4d11-a217-09a54710e246" />
-/
+
 *  Explored historical and modern urban spaces to examine how spatial relationships reveal the impact of technology and culture. 
 * Conducted observations of cultural landmarks, green spaces, and urban structures, including interactions such as quiet shrines hidden within bustling tourist areas. 
 
