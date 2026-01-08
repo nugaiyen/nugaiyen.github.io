@@ -20,7 +20,7 @@ Email: Linh02@uw.edu
 
                 
 ### ADDITIONAL INFORMATION            
-**Skills:** ArcGIS, QGIS, R Studio, MATLAB, Tableau, Data cleaning, Excel, LaTeX, Python, Java 
-**Interests:** Design, Journaling, Reading
+**Skills:** ArcGIS, QGIS, R Studio, MATLAB, Tableau, Data cleaning, Excel, LaTeX, Python, Java \
+**Interests:** Design, Journaling, Reading \
 **Languages:** English, Vietnamese
 
