@@ -2,12 +2,14 @@
 Email: Linh02@uw.edu
 
 ### EDUCATION 
-#### University of Washington (Seattle, Washington)
+#### [University of Washington (Seattle, Washington)]("https://www.washington.edu/")
+![uw]("https://yt3.googleusercontent.com/QVF8U5IrJ6_v42tTDM0cD2l281YeOLtbvHEsbZ3_GOUCQUKmf-CpTVg4PPa9x5_6xIs_tGU2bA=s900-c-k-c0x00ffffff-no-rj")
 *Geography: Data Science with a minor in Data Science.*
 ###### Expected Grad: 2026
 
-#### CIEE Kyoto  
+#### [CIEE (Kyoto, Japan)]("https://www.ciee.org/about/leading-change-international-education-and-exchange")  
 *Study Abroad Program*
+![ciee]("https://www.ciee.org/sites/default/files/styles/250x250/public/blog/2024-08/study-ciee-blue-logo.jpg?h=b044a8f9&itok=2l6tu7FW")
 *  Explored historical and modern urban spaces to examine how spatial relationships reveal the impact of technology and culture. 
 * Conducted observations of cultural landmarks, green spaces, and urban structures, including interactions such as quiet shrines hidden within bustling tourist areas. 
 
