@@ -1,4 +1,0 @@
-# nugaiyen.github.io.
-
-hi
-
