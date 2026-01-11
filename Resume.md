@@ -2,9 +2,10 @@
 Email: Linh02@uw.edu
 
 ### EDUCATION 
-#### <a href="https://www.washington.edu/" target="_blank" rel="noopener noreferrer">
-  University of Washington (Seattle, Washington)
-</a>
+
+<h4 href="https://www.washington.edu/" target="_blank" rel="noopener noreferrer">
+   University of Washington (Seattle, Washington) 
+</h4>
 
 <img width="643" height="595" alt="Image" src="https://github.com/user-attachments/assets/e0730189-6c24-4a57-89c1-d32ebd9c1f24" /> 
 <a href="https://www.youtube.com/channel/UC4SERffAlpCocARSI_BH3CA" target="_blank" rel="noopener noreferrer">
@@ -16,9 +17,9 @@ Email: Linh02@uw.edu
 ###### Expected Grad: 2026
 
 
-#### <a href="://www.ciee.org/about/leading-change-international-education-and-exchange" target="_blank" rel="noopener noreferrer">
+<h4 href="://www.ciee.org/about/leading-change-international-education-and-exchange" target="_blank" rel="noopener noreferrer">
   CIEE (Kyoto, Japan)
-</a>
+</h4>
 *Study Abroad Program* \
 <img width="473" height="275" alt="Image" src="https://github.com/user-attachments/assets/72aadc4f-4288-4d11-a217-09a54710e246" /> 
 <a href="https://www.ciee.org/go-abroad/college-study-abroad/blog/how-much-does-it-cost-study-abroad-2025" target="_blank" rel="noopener noreferrer">
