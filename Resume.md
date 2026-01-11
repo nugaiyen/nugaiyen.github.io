@@ -15,7 +15,9 @@ Email: Linh02@uw.edu
 #### [CIEE (Kyoto, Japan)]("://www.ciee.org/about/leading-change-international-education-and-exchange")  
 *Study Abroad Program* \
 <img width="473" height="275" alt="Image" src="https://github.com/user-attachments/assets/72aadc4f-4288-4d11-a217-09a54710e246" /> 
-[Image Source]("https://www.ciee.org/go-abroad/college-study-abroad/blog/how-much-does-it-cost-study-abroad-2025")
+<a href="https://www.ciee.org/go-abroad/college-study-abroad/blog/how-much-does-it-cost-study-abroad-2025" target="_blank" rel="noopener noreferrer">
+  Image Source
+</a>
 
 *  Explored historical and modern urban spaces to examine how spatial relationships reveal the impact of technology and culture. 
 * Conducted observations of cultural landmarks, green spaces, and urban structures, including interactions such as quiet shrines hidden within bustling tourist areas. 
