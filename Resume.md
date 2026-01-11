@@ -18,11 +18,11 @@ Email: Linh02@uw.edu
 * Conducted observations of cultural landmarks, green spaces, and urban structures, including interactions such as quiet shrines hidden within bustling tourist areas. 
 
 ###  ACADEIC PROJECTS 
-#### Global Fund Proposal: Child Health in Vietnam  
-* Developed a public health proposal with a logic model to reduce child malnutrition and under-five mortality in Vietnam’s northern mountain region. 
+>#### Global Fund Proposal: Child Health in Vietnam  
+>* Developed a public health proposal with a logic model to reduce child malnutrition and under-five mortality in Vietnam’s northern mountain region. 
 
-#### Structural Environmental Injustice and Student Health in Urban Schools 
-* Developed a mixed-methods research proposal applying environmental justice and public health frameworks to assess and address how pollution infrastructure decay, and unsafe transportation affect student health and equity in Seattle schools. 
+> #### Structural Environmental Injustice and Student Health in Urban Schools 
+>* Developed a mixed-methods research proposal applying environmental justice and public health frameworks to assess and address how pollution infrastructure decay, and unsafe transportation affect student health and equity in Seattle schools. 
 
                 
 ### ADDITIONAL INFORMATION            
